@@ -13,5 +13,3 @@ I'm enthusiastic about:
 - Saving people time & energy
 
 If you'd like to work with me, email me at [stuart@dumfoundedtech.com](mailto:stuart@dumfoundedtech.com?Subject=Greetings%20from%20GitHub).
-
-Welp, see ya later!
