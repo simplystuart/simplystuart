@@ -2,7 +2,7 @@
 
 My name is Stuart Dum. It's nice to meet you.
 
-These days you can find me working on projects at [Classical Academic Press](https://classicalacademicpress.com) and [Dumfounded Tech](https://dumfoundedtech.com). I occasionally blog at [simplystu.art](https://simplystu.art).
+These days you can find me working on projects at [Ship Sticks](https://www.shipsticks.com/) and [Dumfounded Tech](https://dumfoundedtech.com). I occasionally blog at [simplystu.art](https://simplystu.art).
 
 I'm enthusiastic about:
 - Edge networking
