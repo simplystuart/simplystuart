@@ -2,7 +2,7 @@
 
 My name is Stuart Dum. It's nice to meet you.
 
-These days you can find me working on projects at [Ship Sticks](https://www.shipsticks.com/) and [Dumfounded Tech](https://dumfoundedtech.com). I occasionally blog at [simplystu.art](https://simplystu.art).
+These days you can find me working on projects at [boisei labs](https://www.boisei.com/) and [Dumfounded Tech](https://dumfoundedtech.com). I occasionally blog at [simplystu.art](https://simplystu.art).
 
 I'm enthusiastic about:
 - Edge networking
@@ -11,8 +11,6 @@ I'm enthusiastic about:
 - Making the world a better place
 - MVC applications
 - Saving people time & energy
-
-If you'd like to work with me, email me at [stuart@dumfoundedtech.com](mailto:stuart@dumfoundedtech.com?Subject=Greetings%20from%20GitHub).
 
 ---
 
