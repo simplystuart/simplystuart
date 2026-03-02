@@ -2,7 +2,7 @@
 
 My name is Stuart Dum. It's nice to meet you.
 
-These days you can find me working on projects at [boisei labs](https://www.boisei.com/) and [Dumfounded Tech](https://dumfoundedtech.com). I occasionally blog at [simplystu.art](https://simplystu.art).
+These days you can find me working on projects at [boisei labs](https://www.boisei.com/). I occasionally blog at [simplystu.art](https://simplystu.art).
 
 I'm enthusiastic about:
 - Edge networking
