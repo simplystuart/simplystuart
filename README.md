@@ -11,7 +11,3 @@ I'm enthusiastic about:
 - Making the world a better place
 - MVC applications
 - Saving people time & energy
-
----
-
-[![GitHub stats](https://github-readme-stats-pied-zeta.vercel.app/api?username=simplystuart)](https://github.com/simplystuart/github-readme-stats)
