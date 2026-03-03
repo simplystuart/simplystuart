@@ -11,3 +11,5 @@ I'm enthusiastic about:
 - Making the world a better place
 - MVC applications
 - Saving people time & energy
+
+Feel free to reach out at [stuart@dumfoundedtech.com](mailto:stuart@dumfoundedtech.com?Subject=Greetings%20from%20GitHub).
